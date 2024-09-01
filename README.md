@@ -1,0 +1,2 @@
+- arni, they/it, annoying queer linux vegan
+- i made this if i need to share things, even if i can also do that by way of G.Drive lol

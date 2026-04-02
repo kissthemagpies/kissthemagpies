@@ -1,2 +1,1 @@
-- arni, they/it, annoying queer birdsnail thingy
-- i made this if i need to share things, even if i can also do that by way of G.Drive lol
+ i made this if i need to share things, even if i can also do that by way of G.Drive lol

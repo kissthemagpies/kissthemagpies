@@ -1,6 +1,16 @@
 Hello !
 
 I'm an engineering student specializing in IT and environmentalism.
+Here are my skills :
+- Python and OOP
+- Linux
+- HTML and basics in CSS
+- Basics in C
+- Basics in SQL
+- Basics in React Native and TypeScript
+- git and different collaboration methods, like *GitHub Flow*
+
+
 Here are some projects I have made and contributed to in the past :
 - A video game in Python, using the *pygame* library and object-oriented programming
 - Learning about various data structures in class, such as queues and stacks

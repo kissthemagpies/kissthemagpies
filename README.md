@@ -10,6 +10,7 @@ I'm an engineering student specializing in IT and environmentalism.
 - Basics in SQL
 - Basics in React Native and TypeScript
 - git and different collaboration methods, like *GitHub Flow*
+- Using the Visual Studio Code and Emacs text editors
 
 ### Here are some projects I have made and contributed to in the past :
 - A video game in Python, using the *pygame* library and object-oriented programming
